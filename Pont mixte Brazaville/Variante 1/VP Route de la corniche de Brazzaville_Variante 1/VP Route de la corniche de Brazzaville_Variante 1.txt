@@ -1,0 +1,66 @@
+Rapport de Transfert:
+Créé par AutoCAD eTransmit le mercredi 25 décembre 2019, 09:11.
+
+Dessin:
+Ce transfert est basé sur VP Route de la corniche de Brazzaville_Variante 1.dwg.
+
+Fichiers:
+
+Dessin racine:
+	VP Route de la corniche de Brazzaville_Variante 1.dwg
+
+Références (externes) du dessin AutoCAD:
+	3D\LEVE TOPO CORNICHE BRAZZAVILLE.dwg
+	GEM\XREF_PROJET VAR 1.dwg
+
+IrfanView PNG File Références:
+	Image\Flag_of_the_Republic_of_the_Congo.png
+	Image\setec_inter_logo.png
+	Image\STUDI_international.png
+
+IrfanView JPG File Références:
+	Image\th[8].jpg
+
+Fichier de configuration de traceur d'AutoCAD Références:
+	PlotCfgs\PDF.pc3
+
+Les fichiers suivants n'ont pas été transmis:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\arial.ttf
+	Fonts\calibri.ttf
+	Fonts\ltypeshp.shx
+	Fonts\verdana.ttf
+	Fonts\romant.shx
+	Fonts\romans.shx
+	Fonts\swissbo.ttf
+	Fonts\romans__.ttf
+	Fonts\ROMANC.shx
+
+
+Remarques concernant la distribution:
+
+Fichiers .DWG de références externes:
+Les chemins de recherche des références externes (xref) existent peut-être. Assurez-vous qu'ils 
+fonctionnent ou que le dessin racine utilise les références correctes.
+eTransmit ne comprend pas les fichiers requis par les xref à moins qu'ils ne soient également requis par le dessin racine. En particulier, les tables de style de tracé et les xref superposées non utilisées par le dessin racine sont omises.
+
+Fichiers d'image raster:
+Les chemins d'accès figurent peut-être dans les références aux images raster. Assurez-vous 
+qu'ils fonctionnent ou que le dessin racine utilise les références correctes.
+
+Fichiers .PC3 de configuration d'imprimante:
+Veuillez copier ces fichiers vers le répertoire du chemin de recherche de la configuration de l'imprimante d'AutoCAD.
+
+La variable AutoCAD FONTALT a été définie selon:
+C:\users\tns-civil25\appdata\roaming\autodesk\c3d 2015\fra\support\simplex.shx
+Vérifiez que la variable FONTALT est définie pour ce fichier ou un fichier équivalent avant d'ouvrir un dessin. Cette police est automatiquement attribuée aux styles de texte qui n'ont pas de police.
+
+
+
+*** Fichiers antémémoire et de données Map 2007 ***
+
+Le dessin 'M:\4-WORK\Route de corniche de Brazzaville\01_TECH\01_ETU\02_AVPFIN\01_MINU\GEM\P_GRAPH\DWG\VP\VP Route de la corniche de Brazzaville_Variante 1.dwg' fait référence à un fichier XML manifest antémémoire, à aucun ou à plusieurs fichiers antémémoire (.GWS), ainsi qu'à des fichiers de données brutes.
+Veuillez vérifier que le fichier XML manifest et les fichiers antémémoire sont décompressés dans le répertoire de dessin ou dans votre répertoire MapCache courant.
+Vous devez peut-être également mettre à jour le fichier XML manifest antémémoire afin qu'il pointe vers l'emplacement des fichiers de données décompressés.
+

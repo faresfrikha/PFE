@@ -1,0 +1,19 @@
+ Alize-Lcpc - Design of pavement structures 
+   according to the French Lcpc-Setra rational method 
+ 
+ Computation of Allowable value -  material: untreated graded aggregates and soil 
+ traffic data : 
+	 arithmetic growth= 3,00%
+	 service duration= 20,0 years 
+	 cumulated trafic NPL = 5 677 474 heavy lorries 
+ other equivalent traffic data (inferred) : 
+	 MJA = 605 lorries/direction/lane 
+	 geometric growth= 2,56%
+ equivalent cumulated trafic NE: 
+	 coefficient CAM= 1,00
+	 cumul. traffic NE= 5 677 500 reference axles 
+ material characteristics: 
+	 coefficient A= 12000
+	 exponent= -0,2220
+ Allowable EpsilonZ= 380,0 µstrain 
+ 
