@@ -1,4 +1,5 @@
 # PFE
+<<<<<<< HEAD
 Projet de Fin d'Etudes
 
 
@@ -15,3 +16,6 @@ Les sollicitations sont obtenues en se basant sur le modèle numérique du pont 
 
 
 Enfin, le rapport est complété par une annexe qui comporte les détails des calculs réalisés.
+=======
+Projet de fin d'études
+>>>>>>> 230e81b9248ea620101ffd233f1bbb55d8abed61
