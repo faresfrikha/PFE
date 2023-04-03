@@ -1,5 +1,4 @@
 # PFE
-<<<<<<< HEAD
 Projet de Fin d'Etudes
 
 
@@ -13,9 +12,3 @@ Ce rapport comporte neuf chapitres principaux. Tous les chapitres font référen
 
 
 Les sollicitations sont obtenues en se basant sur le modèle numérique du pont réalisé à l'aide du logiciel « CSI Bridge » et ce en se basant sur le phasage de construction de l’ouvrage.
-
-
-Enfin, le rapport est complété par une annexe qui comporte les détails des calculs réalisés.
-=======
-Projet de fin d'études
->>>>>>> 230e81b9248ea620101ffd233f1bbb55d8abed61
